@@ -11,6 +11,13 @@
     <itunes:category text="Arts"/>
     <itunes:category text="Personal Journals"/>
     <item>
+      <title>Creative Excellence — June 25, 2026</title>
+      <description>Daily creative digest</description>
+      <pubDate>Thu, 25 Jun 2026 07:56:43 +0100</pubDate>
+      <guid isPermaLink="false">creative-excellence-2026-06-25</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-06-25.mp3" type="audio/mpeg" length="4373280"/>
+    </item>
+    <item>
       <title>Creative Excellence — June 24, 2026</title>
       <description>Daily creative digest</description>
       <pubDate>Wed, 24 Jun 2026 07:56:50 +0100</pubDate>
