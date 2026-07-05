@@ -11,6 +11,13 @@
     <itunes:category text="Arts"/>
     <itunes:category text="Personal Journals"/>
     <item>
+      <title>Creative Excellence — Sunday, July 5, 2026</title>
+      <description>Covering: Little Toller Books &lt;books@littletoller.co.uk&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;</description>
+      <pubDate>Sun, 05 Jul 2026 07:40:14 +0100</pubDate>
+      <guid isPermaLink="false">creative-excellence-2026-07-05</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-07-05.m4a" type="audio/mp4" length="2617088"/>
+    </item>
+    <item>
       <title>Creative Excellence — Saturday, July 4, 2026</title>
       <description>Covering: Peter Smith Rewilding &lt;peeta462032@substack.com&gt;, Waterstones &lt;team@email1.waterstones.com&gt;, Little Toller Books &lt;books@littletoller.co.uk&gt;, Comic Vault &lt;pete@comicvault.cc&gt;, Nadia Bolz-Weber from The Corners  &lt;thecorners@substack.com&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, The Free Press &lt;bariweiss+tgif@substack.com&gt;, "Aarron &amp; Eli from Design Better" &lt;thecuriositydepartment@substack.com&gt;</description>
       <pubDate>Sat, 04 Jul 2026 18:41:10 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Wed, 06 May 2026 07:00:00 +0100</pubDate>
       <guid isPermaLink="false">creative-2026-05-06</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-05-06.mp3" type="audio/mpeg" length="6268176"/>
-    </item>
-    <item>
-      <title>Creative Excellence — Tuesday, May 5, 2026</title>
-      <description>Creative episode for Tuesday, 05 May 2026</description>
-      <pubDate>Tue, 05 May 2026 07:00:00 +0100</pubDate>
-      <guid isPermaLink="false">creative-2026-05-05</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-05-05.mp3" type="audio/mpeg" length="6782544"/>
     </item>
   </channel>
 </rss>
