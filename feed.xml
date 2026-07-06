@@ -11,6 +11,13 @@
     <itunes:category text="Arts"/>
     <itunes:category text="Personal Journals"/>
     <item>
+      <title>Creative Excellence — Monday, July 6, 2026</title>
+      <description>Covering: Poetry Daily &lt;poetrydaily@poems.com&gt;, "The Marginalian by Maria Popova (Sunday Edition)" &lt;newsletter@themarginalian.org&gt;, Waterstones &lt;team@email1.waterstones.com&gt;, Rick Rubin &lt;rickrubin@substack.com&gt;, Peter Smith Rewilding &lt;peeta462032@substack.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;</description>
+      <pubDate>Mon, 06 Jul 2026 09:57:45 +0100</pubDate>
+      <guid isPermaLink="false">creative-excellence-2026-07-06</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-07-06.m4a" type="audio/mp4" length="2910273"/>
+    </item>
+    <item>
       <title>Creative Excellence — Sunday, July 5, 2026</title>
       <description>Covering: Little Toller Books &lt;books@littletoller.co.uk&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;</description>
       <pubDate>Sun, 05 Jul 2026 07:40:14 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Thu, 07 May 2026 07:00:00 +0100</pubDate>
       <guid isPermaLink="false">creative-2026-05-07</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-05-07.mp3" type="audio/mpeg" length="6158160"/>
-    </item>
-    <item>
-      <title>Creative Excellence — Wednesday, May 6, 2026</title>
-      <description>Creative episode for Wednesday, 06 May 2026</description>
-      <pubDate>Wed, 06 May 2026 07:00:00 +0100</pubDate>
-      <guid isPermaLink="false">creative-2026-05-06</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-05-06.mp3" type="audio/mpeg" length="6268176"/>
     </item>
   </channel>
 </rss>
