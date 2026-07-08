@@ -11,6 +11,13 @@
     <itunes:category text="Arts"/>
     <itunes:category text="Personal Journals"/>
     <item>
+      <title>Creative Excellence — Wednesday, July 8, 2026</title>
+      <description>Covering: The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 11:08:47 +0100</pubDate>
+      <guid isPermaLink="false">creative-excellence-2026-07-08</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-07-08.m4a" type="audio/mp4" length="2268762"/>
+    </item>
+    <item>
       <title>Creative Excellence — Tuesday, July 7, 2026</title>
       <description>Covering: The Free Press &lt;bariweiss+free-press-events@substack.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, Hayley from VERVE Poetry Festival &lt;vervepoetry@substack.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, The Poetry Society &lt;marketing@poetrysociety.org.uk&gt;, Waterstones &lt;team@email1.waterstones.com&gt;</description>
       <pubDate>Tue, 07 Jul 2026 10:19:36 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Sat, 09 May 2026 07:00:00 +0100</pubDate>
       <guid isPermaLink="false">creative-2026-05-09</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-05-09.mp3" type="audio/mpeg" length="5973840"/>
-    </item>
-    <item>
-      <title>Creative Excellence — Friday, May 8, 2026</title>
-      <description>Creative episode for Friday, 08 May 2026</description>
-      <pubDate>Fri, 08 May 2026 07:00:00 +0100</pubDate>
-      <guid isPermaLink="false">creative-2026-05-08</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-05-08.mp3" type="audio/mpeg" length="6795936"/>
     </item>
   </channel>
 </rss>
