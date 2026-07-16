@@ -11,6 +11,13 @@
     <itunes:category text="Arts"/>
     <itunes:category text="Personal Journals"/>
     <item>
+      <title>Creative Excellence — Thursday, July 16, 2026</title>
+      <description>Covering: The Poetry Society &lt;marketing@poetrysociety.org.uk&gt;, "The Marginalian by Maria Popova (Midweek Edition)" &lt;newsletter@themarginalian.org&gt;, "Aarron &amp; Eli from Design Better" &lt;thecuriositydepartment@substack.com&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, "Forbes Vetted | Known Traveler" &lt;shopping@email.forbes.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 10:55:51 +0100</pubDate>
+      <guid isPermaLink="false">creative-excellence-2026-07-16</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-07-16.m4a" type="audio/mp4" length="3043180"/>
+    </item>
+    <item>
       <title>Creative Excellence — Wednesday, July 15, 2026</title>
       <description>Covering: Waterstones &lt;team@email1.waterstones.com&gt;, "Aarron &amp; Eli from Design Better" &lt;thecuriositydepartment@substack.com&gt;, Forbes Vetted &lt;shopping@email.forbes.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, Little Toller Books &lt;books@littletoller.co.uk&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;</description>
       <pubDate>Wed, 15 Jul 2026 09:21:33 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Sun, 17 May 2026 07:00:00 +0100</pubDate>
       <guid isPermaLink="false">creative-2026-05-17</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-05-17.mp3" type="audio/mpeg" length="6625728"/>
-    </item>
-    <item>
-      <title>Creative Excellence — Saturday, May 16, 2026</title>
-      <description>Creative episode for Saturday, 16 May 2026</description>
-      <pubDate>Sat, 16 May 2026 07:00:00 +0100</pubDate>
-      <guid isPermaLink="false">creative-2026-05-16</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-05-16.mp3" type="audio/mpeg" length="6625728"/>
     </item>
   </channel>
 </rss>
