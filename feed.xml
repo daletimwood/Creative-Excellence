@@ -11,6 +11,13 @@
     <itunes:category text="Arts"/>
     <itunes:category text="Personal Journals"/>
     <item>
+      <title>Creative Excellence — Saturday, July 18, 2026</title>
+      <description>Covering: Peter Smith Rewilding &lt;peeta462032@substack.com&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, The Free Press &lt;bariweiss+tgif@substack.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;, "Aarron &amp; Eli from Design Better" &lt;thecuriositydepartment@substack.com&gt;</description>
+      <pubDate>Sat, 18 Jul 2026 07:15:46 +0100</pubDate>
+      <guid isPermaLink="false">creative-excellence-2026-07-18</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-07-18.m4a" type="audio/mp4" length="2046630"/>
+    </item>
+    <item>
       <title>Creative Excellence — Friday, July 17, 2026</title>
       <description>Covering: The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, Forbes Vetted &lt;shopping@email.forbes.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;, "Aarron &amp; Eli from Design Better" &lt;thecuriositydepartment+events@substack.com&gt;, Waterstones &lt;team@email1.waterstones.com&gt;, Nadia Bolz-Weber from The Corners  &lt;thecorners@substack.com&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;</description>
       <pubDate>Fri, 17 Jul 2026 07:20:42 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Tue, 19 May 2026 07:00:00 +0100</pubDate>
       <guid isPermaLink="false">creative-2026-05-19</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-05-19.mp3" type="audio/mpeg" length="5893200"/>
-    </item>
-    <item>
-      <title>Creative Excellence — Monday, May 18, 2026</title>
-      <description>Creative episode for Monday, 18 May 2026</description>
-      <pubDate>Mon, 18 May 2026 07:00:00 +0100</pubDate>
-      <guid isPermaLink="false">creative-2026-05-18</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-05-18.mp3" type="audio/mpeg" length="6427728"/>
     </item>
   </channel>
 </rss>
