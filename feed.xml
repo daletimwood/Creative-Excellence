@@ -11,6 +11,13 @@
     <itunes:category text="Arts"/>
     <itunes:category text="Personal Journals"/>
     <item>
+      <title>Creative Excellence — Wednesday, July 22, 2026</title>
+      <description>Covering: Waterstones &lt;team@email1.waterstones.com&gt;, The Free Press &lt;bariweiss+free-press-events@substack.com&gt;, Hayley from VERVE Poetry Festival &lt;vervepoetry@substack.com&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;</description>
+      <pubDate>Wed, 22 Jul 2026 07:23:40 +0100</pubDate>
+      <guid isPermaLink="false">creative-excellence-2026-07-22</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-07-22.m4a" type="audio/mp4" length="2711345"/>
+    </item>
+    <item>
       <title>Creative Excellence — Tuesday, July 21, 2026</title>
       <description>Covering: The Poetry Society &lt;marketing@poetrysociety.org.uk&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, Waterstones &lt;team@email1.waterstones.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;</description>
       <pubDate>Tue, 21 Jul 2026 07:21:46 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Sat, 23 May 2026 07:00:00 +0100</pubDate>
       <guid isPermaLink="false">creative-2026-05-23</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-05-23.mp3" type="audio/mpeg" length="6825456"/>
-    </item>
-    <item>
-      <title>Creative Excellence — Friday, May 22, 2026</title>
-      <description>Creative episode for Friday, 22 May 2026</description>
-      <pubDate>Fri, 22 May 2026 07:00:00 +0100</pubDate>
-      <guid isPermaLink="false">creative-2026-05-22</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-05-22.mp3" type="audio/mpeg" length="7019856"/>
     </item>
   </channel>
 </rss>
