@@ -11,6 +11,13 @@
     <itunes:category text="Arts"/>
     <itunes:category text="Personal Journals"/>
     <item>
+      <title>Creative Excellence — Sunday, July 26, 2026</title>
+      <description>Covering: The Free Press &lt;bariweiss+the-weekend-press@substack.com&gt;, Peter Smith Rewilding &lt;peeta462032@substack.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;</description>
+      <pubDate>Sun, 26 Jul 2026 07:07:17 +0100</pubDate>
+      <guid isPermaLink="false">creative-excellence-2026-07-26</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-07-26.m4a" type="audio/mp4" length="2340904"/>
+    </item>
+    <item>
       <title>Creative Excellence — Saturday, July 25, 2026</title>
       <description>Covering: Granta Magazine &lt;newsletters@granta.com&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, "Forbes Vetted | Deals" &lt;shopping@email.forbes.com&gt;, Waterstones &lt;team@email1.waterstones.com&gt;, Forbes Vetted &lt;shopping@email.forbes.com&gt;, "Forbes | Passport" &lt;forbeslife@email.forbes.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;, The Free Press &lt;bariweiss+tgif@substack.com&gt;</description>
       <pubDate>Sat, 25 Jul 2026 07:25:52 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Wed, 27 May 2026 07:00:00 +0100</pubDate>
       <guid isPermaLink="false">creative-2026-05-27</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-05-27.mp3" type="audio/mpeg" length="6813216"/>
-    </item>
-    <item>
-      <title>Creative Excellence — Tuesday, May 26, 2026</title>
-      <description>Creative episode for Tuesday, 26 May 2026</description>
-      <pubDate>Tue, 26 May 2026 07:00:00 +0100</pubDate>
-      <guid isPermaLink="false">creative-2026-05-26</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-05-26.mp3" type="audio/mpeg" length="5603328"/>
     </item>
   </channel>
 </rss>
