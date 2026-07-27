@@ -11,6 +11,13 @@
     <itunes:category text="Arts"/>
     <itunes:category text="Personal Journals"/>
     <item>
+      <title>Creative Excellence — Monday, July 27, 2026</title>
+      <description>Covering: Rick Rubin &lt;rickrubin@substack.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, Waterstones &lt;team@email1.waterstones.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;, "The Marginalian by Maria Popova (Sunday Edition)" &lt;newsletter@themarginalian.org&gt;, Granta Magazine &lt;newsletters@granta.com&gt;, Peter Smith Rewilding &lt;peeta462032@substack.com&gt;</description>
+      <pubDate>Mon, 27 Jul 2026 07:15:12 +0100</pubDate>
+      <guid isPermaLink="false">creative-excellence-2026-07-27</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-07-27.m4a" type="audio/mp4" length="2904878"/>
+    </item>
+    <item>
       <title>Creative Excellence — Sunday, July 26, 2026</title>
       <description>Covering: The Free Press &lt;bariweiss+the-weekend-press@substack.com&gt;, Peter Smith Rewilding &lt;peeta462032@substack.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;</description>
       <pubDate>Sun, 26 Jul 2026 07:07:17 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Thu, 28 May 2026 07:00:00 +0100</pubDate>
       <guid isPermaLink="false">creative-2026-05-28</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-05-28.mp3" type="audio/mpeg" length="5665824"/>
-    </item>
-    <item>
-      <title>Creative Excellence — Wednesday, May 27, 2026</title>
-      <description>Creative episode for Wednesday, 27 May 2026</description>
-      <pubDate>Wed, 27 May 2026 07:00:00 +0100</pubDate>
-      <guid isPermaLink="false">creative-2026-05-27</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-05-27.mp3" type="audio/mpeg" length="6813216"/>
     </item>
   </channel>
 </rss>
