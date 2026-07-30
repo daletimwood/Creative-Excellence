@@ -11,6 +11,13 @@
     <itunes:category text="Arts"/>
     <itunes:category text="Personal Journals"/>
     <item>
+      <title>Creative Excellence — Thursday, July 30, 2026</title>
+      <description>Covering: Waterstones &lt;team@email1.waterstones.com&gt;, Peter Smith Rewilding &lt;peeta462032@substack.com&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, "The Marginalian by Maria Popova (Midweek Edition)" &lt;newsletter@themarginalian.org&gt;, The Poetry Society &lt;marketing@poetrysociety.org.uk&gt;, "Aarron &amp; Eli from Design Better" &lt;thecuriositydepartment+events@substack.com&gt;, "Forbes Vetted | Deals" &lt;shopping@email.forbes.com&gt;, "Forbes Vetted | Known Traveler" &lt;shopping@email.forbes.com&gt;</description>
+      <pubDate>Thu, 30 Jul 2026 07:23:23 +0100</pubDate>
+      <guid isPermaLink="false">creative-excellence-2026-07-30</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-07-30.m4a" type="audio/mp4" length="2985288"/>
+    </item>
+    <item>
       <title>Creative Excellence — Wednesday, July 29, 2026</title>
       <description>Covering: Poetry Daily &lt;poetrydaily@poems.com&gt;, Waterstones &lt;team@email1.waterstones.com&gt;, "Aarron &amp; Eli from Design Better" &lt;thecuriositydepartment@substack.com&gt;, Nadia Bolz-Weber from The Corners  &lt;thecorners@substack.com&gt;, The Free Press &lt;bariweiss+free-press-events@substack.com&gt;</description>
       <pubDate>Wed, 29 Jul 2026 07:13:44 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Sun, 31 May 2026 21:15:06 +0100</pubDate>
       <guid isPermaLink="false">creative-excellence-2026-05-31</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-05-31.mp3" type="audio/mpeg" length="2382192"/>
-    </item>
-    <item>
-      <title>Creative Excellence — Saturday, May 30, 2026</title>
-      <description>Covering: Poetry Daily &lt;poetrydaily@poems.com&gt;, Humanistic Systems &lt;comment-reply@wordpress.com&gt;, Waterstones &lt;team@email1.waterstones.com&gt;, Granta Magazine &lt;newsletters@granta.com&gt;</description>
-      <pubDate>Sat, 30 May 2026 20:30:53 +0100</pubDate>
-      <guid isPermaLink="false">creative-excellence-2026-05-30</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-05-30.mp3" type="audio/mpeg" length="2508480"/>
     </item>
   </channel>
 </rss>
