@@ -11,6 +11,13 @@
     <itunes:category text="Arts"/>
     <itunes:category text="Personal Journals"/>
     <item>
+      <title>Creative Excellence — Saturday, August 1, 2026</title>
+      <description>Covering: Seren Books &lt;seren@serenbooks.com&gt;, "Forbes Vetted | Deals" &lt;shopping@email.forbes.com&gt;, The Free Press &lt;bariweiss+tgif@substack.com&gt;, "Aarron &amp; Eli from Design Better" &lt;thecuriositydepartment@substack.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;, Peter Smith Rewilding &lt;peeta462032@substack.com&gt;</description>
+      <pubDate>Sat, 01 Aug 2026 07:22:03 +0100</pubDate>
+      <guid isPermaLink="false">creative-excellence-2026-08-01</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-08-01.m4a" type="audio/mp4" length="2662007"/>
+    </item>
+    <item>
       <title>Creative Excellence — Friday, July 31, 2026</title>
       <description>Covering: The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, Granta Magazine &lt;newsletters@granta.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;, Forbes Vetted &lt;shopping@email.forbes.com&gt;, Asymptote Journal &lt;mailer@asymptotejournal.com&gt;, Hayley from VERVE Poetry Festival &lt;vervepoetry@substack.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, Peter Smith Rewilding &lt;peeta462032@substack.com&gt;</description>
       <pubDate>Fri, 31 Jul 2026 07:26:03 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Tue, 02 Jun 2026 09:02:43 +0100</pubDate>
       <guid isPermaLink="false">creative-excellence-2026-06-02</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-06-02.mp3" type="audio/mpeg" length="3055824"/>
-    </item>
-    <item>
-      <title>Creative Excellence — Monday, June 1, 2026</title>
-      <description>Covering: Nadia Bolz-Weber from The Corners  &lt;thecorners@substack.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;</description>
-      <pubDate>Mon, 01 Jun 2026 12:02:24 +0100</pubDate>
-      <guid isPermaLink="false">creative-excellence-2026-06-01</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-06-01.mp3" type="audio/mpeg" length="3100608"/>
     </item>
   </channel>
 </rss>
