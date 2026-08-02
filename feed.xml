@@ -11,6 +11,13 @@
     <itunes:category text="Arts"/>
     <itunes:category text="Personal Journals"/>
     <item>
+      <title>Creative Excellence — Sunday, August 2, 2026</title>
+      <description>Covering: Little Toller Books &lt;books@littletoller.co.uk&gt;, Waterstones &lt;team@email1.waterstones.com&gt;, "The Marginalian by Maria Popova (Sunday Edition)" &lt;newsletter@themarginalian.org&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;, The Free Press &lt;bariweiss+the-weekend-press@substack.com&gt;</description>
+      <pubDate>Sun, 02 Aug 2026 18:31:54 +0100</pubDate>
+      <guid isPermaLink="false">creative-excellence-2026-08-02</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-08-02.m4a" type="audio/mp4" length="3194143"/>
+    </item>
+    <item>
       <title>Creative Excellence — Saturday, August 1, 2026</title>
       <description>Covering: Seren Books &lt;seren@serenbooks.com&gt;, "Forbes Vetted | Deals" &lt;shopping@email.forbes.com&gt;, The Free Press &lt;bariweiss+tgif@substack.com&gt;, "Aarron &amp; Eli from Design Better" &lt;thecuriositydepartment@substack.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;, Peter Smith Rewilding &lt;peeta462032@substack.com&gt;</description>
       <pubDate>Sat, 01 Aug 2026 07:22:03 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Wed, 03 Jun 2026 07:35:44 +0100</pubDate>
       <guid isPermaLink="false">creative-excellence-2026-06-03</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-06-03.mp3" type="audio/mpeg" length="3806496"/>
-    </item>
-    <item>
-      <title>Creative Excellence — 2026-06-02</title>
-      <description>Daily creative digest</description>
-      <pubDate>Tue, 02 Jun 2026 09:02:43 +0100</pubDate>
-      <guid isPermaLink="false">creative-excellence-2026-06-02</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-06-02.mp3" type="audio/mpeg" length="3055824"/>
     </item>
   </channel>
 </rss>
