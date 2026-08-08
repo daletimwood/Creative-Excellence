@@ -11,6 +11,13 @@
     <itunes:category text="Arts"/>
     <itunes:category text="Personal Journals"/>
     <item>
+      <title>Creative Excellence — Saturday, August 8, 2026</title>
+      <description>Covering: "Forbes | Passport" &lt;forbeslife@email.forbes.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;, The Free Press &lt;bariweiss+tgif@substack.com&gt;, "Aarron &amp; Eli from Design Better" &lt;thecuriositydepartment@substack.com&gt;, "Forbes Vetted | Deals" &lt;shopping@email.forbes.com&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;</description>
+      <pubDate>Sat, 08 Aug 2026 07:17:33 +0100</pubDate>
+      <guid isPermaLink="false">creative-excellence-2026-08-08</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-08-08.m4a" type="audio/mp4" length="2638960"/>
+    </item>
+    <item>
       <title>Creative Excellence — Friday, August 7, 2026</title>
       <description>Covering: Nadia Bolz-Weber from The Corners  &lt;thecorners@substack.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;, Asymptote Journal &lt;mailer@asymptotejournal.com&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, Forbes Vetted &lt;shopping@email.forbes.com&gt;, Joseph Di Prisco &lt;jdp@newliteraryproject.org&gt;</description>
       <pubDate>Fri, 07 Aug 2026 07:26:59 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Sun, 07 Jun 2026 07:43:30 +0100</pubDate>
       <guid isPermaLink="false">creative-excellence-2026-06-07</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-06-07.mp3" type="audio/mpeg" length="3800160"/>
-    </item>
-    <item>
-      <title>Creative Excellence — Saturday, June 6, 2026</title>
-      <description>Daily creative digest</description>
-      <pubDate>Sat, 06 Jun 2026 07:41:10 +0100</pubDate>
-      <guid isPermaLink="false">creative-excellence-2026-06-06</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-06-06.mp3" type="audio/mpeg" length="3376656"/>
     </item>
   </channel>
 </rss>
