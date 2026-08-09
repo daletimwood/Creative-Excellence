@@ -11,6 +11,13 @@
     <itunes:category text="Arts"/>
     <itunes:category text="Personal Journals"/>
     <item>
+      <title>Creative Excellence — Sunday, August 9, 2026</title>
+      <description>Covering: Poetry Daily &lt;poetrydaily@poems.com&gt;, Waterstones &lt;team@email1.waterstones.com&gt;, The Poetry Society &lt;marketing@poetrysociety.org.uk&gt;, The Free Press &lt;bariweiss+the-weekend-press@substack.com&gt;</description>
+      <pubDate>Sun, 09 Aug 2026 07:05:28 +0100</pubDate>
+      <guid isPermaLink="false">creative-excellence-2026-08-09</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-08-09.m4a" type="audio/mp4" length="2348911"/>
+    </item>
+    <item>
       <title>Creative Excellence — Saturday, August 8, 2026</title>
       <description>Covering: "Forbes | Passport" &lt;forbeslife@email.forbes.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;, The Free Press &lt;bariweiss+tgif@substack.com&gt;, "Aarron &amp; Eli from Design Better" &lt;thecuriositydepartment@substack.com&gt;, "Forbes Vetted | Deals" &lt;shopping@email.forbes.com&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;</description>
       <pubDate>Sat, 08 Aug 2026 07:17:33 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Mon, 08 Jun 2026 08:14:20 +0100</pubDate>
       <guid isPermaLink="false">creative-excellence-2026-06-08</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-06-08.mp3" type="audio/mpeg" length="3448944"/>
-    </item>
-    <item>
-      <title>Creative Excellence — June 7, 2026</title>
-      <description>Daily creative digest</description>
-      <pubDate>Sun, 07 Jun 2026 07:43:30 +0100</pubDate>
-      <guid isPermaLink="false">creative-excellence-2026-06-07</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-06-07.mp3" type="audio/mpeg" length="3800160"/>
     </item>
   </channel>
 </rss>
