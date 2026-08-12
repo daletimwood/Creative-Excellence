@@ -11,6 +11,13 @@
     <itunes:category text="Arts"/>
     <itunes:category text="Personal Journals"/>
     <item>
+      <title>Creative Excellence — Wednesday, August 12, 2026</title>
+      <description>Covering: Hayley from VERVE Poetry Festival &lt;vervepoetry@substack.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;, Forbes Vetted &lt;shopping@email.forbes.com&gt;</description>
+      <pubDate>Wed, 12 Aug 2026 09:19:04 +0100</pubDate>
+      <guid isPermaLink="false">creative-excellence-2026-08-12</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-08-12.m4a" type="audio/mp4" length="2629314"/>
+    </item>
+    <item>
       <title>Creative Excellence — Tuesday, August 11, 2026</title>
       <description>Covering: The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, Bridget Chapman at Forbes Vetted &lt;shopping@email.forbes.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, Waterstones &lt;team@email1.waterstones.com&gt;, "Forbes Vetted | The Find" &lt;shopping@email.forbes.com&gt;</description>
       <pubDate>Tue, 11 Aug 2026 07:26:52 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Thu, 11 Jun 2026 14:12:30 +0100</pubDate>
       <guid isPermaLink="false">creative-excellence-2026-06-11</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-06-11.mp3" type="audio/mpeg" length="3681504"/>
-    </item>
-    <item>
-      <title>Creative Excellence — Wednesday, June 10, 2026</title>
-      <description>Daily creative digest</description>
-      <pubDate>Wed, 10 Jun 2026 07:53:56 +0100</pubDate>
-      <guid isPermaLink="false">creative-excellence-2026-06-10</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-06-10.mp3" type="audio/mpeg" length="2953584"/>
     </item>
   </channel>
 </rss>
