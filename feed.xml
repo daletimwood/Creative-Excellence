@@ -11,6 +11,13 @@
     <itunes:category text="Arts"/>
     <itunes:category text="Personal Journals"/>
     <item>
+      <title>Creative Excellence — Thursday, August 13, 2026</title>
+      <description>Covering: The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, "Forbes Vetted | Known Traveler" &lt;shopping@email.forbes.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;, "Forbes Vetted | Deals" &lt;shopping@email.forbes.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, "The Marginalian by Maria Popova (Midweek Edition)" &lt;newsletter@themarginalian.org&gt;</description>
+      <pubDate>Thu, 13 Aug 2026 07:20:12 +0100</pubDate>
+      <guid isPermaLink="false">creative-excellence-2026-08-13</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-08-13.m4a" type="audio/mp4" length="2996061"/>
+    </item>
+    <item>
       <title>Creative Excellence — Wednesday, August 12, 2026</title>
       <description>Covering: Hayley from VERVE Poetry Festival &lt;vervepoetry@substack.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;, Forbes Vetted &lt;shopping@email.forbes.com&gt;</description>
       <pubDate>Wed, 12 Aug 2026 09:19:04 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Fri, 12 Jun 2026 08:12:40 +0100</pubDate>
       <guid isPermaLink="false">creative-excellence-2026-06-12</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-06-12.mp3" type="audio/mpeg" length="3374352"/>
-    </item>
-    <item>
-      <title>Creative Excellence — Thursday, June 11, 2026</title>
-      <description>Daily creative digest</description>
-      <pubDate>Thu, 11 Jun 2026 14:12:30 +0100</pubDate>
-      <guid isPermaLink="false">creative-excellence-2026-06-11</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-06-11.mp3" type="audio/mpeg" length="3681504"/>
     </item>
   </channel>
 </rss>
