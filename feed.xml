@@ -11,6 +11,13 @@
     <itunes:category text="Arts"/>
     <itunes:category text="Personal Journals"/>
     <item>
+      <title>Creative Excellence — Saturday, August 22, 2026</title>
+      <description>Covering: The Free Press &lt;bariweiss+tgif@substack.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, Peter Smith Rewilding &lt;peeta462032@substack.com&gt;</description>
+      <pubDate>Sat, 22 Aug 2026 06:52:33 +0100</pubDate>
+      <guid isPermaLink="false">creative-excellence-2026-08-22</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-08-22.m4a" type="audio/mp4" length="3590600"/>
+    </item>
+    <item>
       <title>Creative Excellence — Friday, August 21, 2026</title>
       <description>Covering: Poetry Daily &lt;poetrydaily@poems.com&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, Nadia Bolz-Weber from The Corners  &lt;thecorners@substack.com&gt;, Forbes Vetted &lt;shopping@email.forbes.com&gt;, "Aarron &amp; Eli from Design Better" &lt;thecuriositydepartment@substack.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, Asymptote Journal &lt;mailer@asymptotejournal.com&gt;</description>
       <pubDate>Fri, 21 Aug 2026 07:29:30 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Sun, 21 Jun 2026 10:38:36 +0100</pubDate>
       <guid isPermaLink="false">creative-excellence-2026-06-21</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-06-21.mp3" type="audio/mpeg" length="2982240"/>
-    </item>
-    <item>
-      <title>Creative Excellence — 20 June 2026</title>
-      <description>Daily creative digest</description>
-      <pubDate>Sat, 20 Jun 2026 10:38:32 +0100</pubDate>
-      <guid isPermaLink="false">creative-excellence-2026-06-20</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-06-20.mp3" type="audio/mpeg" length="3792528"/>
     </item>
   </channel>
 </rss>
