@@ -11,6 +11,13 @@
     <itunes:category text="Arts"/>
     <itunes:category text="Personal Journals"/>
     <item>
+      <title>Creative Excellence — Monday, August 24, 2026</title>
+      <description>Covering: Rick Rubin &lt;rickrubin@substack.com&gt;, "The Marginalian by Maria Popova (Sunday Edition)" &lt;newsletter@themarginalian.org&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, The Free Press &lt;bariweiss@substack.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;</description>
+      <pubDate>Mon, 24 Aug 2026 06:49:39 +0100</pubDate>
+      <guid isPermaLink="false">creative-excellence-2026-08-24</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-08-24.m4a" type="audio/mp4" length="3806915"/>
+    </item>
+    <item>
       <title>Creative Excellence — Sunday, August 23, 2026</title>
       <description>Covering: Poetry Daily &lt;poetrydaily@poems.com&gt;, The Free Press &lt;bariweiss+the-weekend-press@substack.com&gt;, "Aarron &amp; Eli from Design Better" &lt;thecuriositydepartment@substack.com&gt;, Nadia Bolz-Weber from The Corners  &lt;thecorners@substack.com&gt;</description>
       <pubDate>Sun, 23 Aug 2026 06:43:37 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Tue, 23 Jun 2026 07:56:29 +0100</pubDate>
       <guid isPermaLink="false">creative-excellence-2026-06-23</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-06-23.mp3" type="audio/mpeg" length="4180896"/>
-    </item>
-    <item>
-      <title>Creative Excellence — June 22, 2026</title>
-      <description>Daily creative digest</description>
-      <pubDate>Mon, 22 Jun 2026 07:56:04 +0100</pubDate>
-      <guid isPermaLink="false">creative-excellence-2026-06-22</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-06-22.mp3" type="audio/mpeg" length="4465296"/>
     </item>
   </channel>
 </rss>
