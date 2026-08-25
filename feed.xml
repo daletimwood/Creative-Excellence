@@ -11,6 +11,13 @@
     <itunes:category text="Arts"/>
     <itunes:category text="Personal Journals"/>
     <item>
+      <title>Creative Excellence — Tuesday, August 25, 2026</title>
+      <description>Covering: Poetry Daily &lt;poetrydaily@poems.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, "Forbes Vetted | The Find" &lt;shopping@email.forbes.com&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, Bridget Chapman at Forbes Vetted &lt;shopping@email.forbes.com&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 06:51:28 +0100</pubDate>
+      <guid isPermaLink="false">creative-excellence-2026-08-25</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-08-25.m4a" type="audio/mp4" length="3141222"/>
+    </item>
+    <item>
       <title>Creative Excellence — Monday, August 24, 2026</title>
       <description>Covering: Rick Rubin &lt;rickrubin@substack.com&gt;, "The Marginalian by Maria Popova (Sunday Edition)" &lt;newsletter@themarginalian.org&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, The Free Press &lt;bariweiss@substack.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;</description>
       <pubDate>Mon, 24 Aug 2026 06:49:39 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Wed, 24 Jun 2026 07:56:50 +0100</pubDate>
       <guid isPermaLink="false">creative-excellence-2026-06-24</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-06-24.mp3" type="audio/mpeg" length="4275504"/>
-    </item>
-    <item>
-      <title>Creative Excellence — June 23, 2026</title>
-      <description>Daily creative digest</description>
-      <pubDate>Tue, 23 Jun 2026 07:56:29 +0100</pubDate>
-      <guid isPermaLink="false">creative-excellence-2026-06-23</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-06-23.mp3" type="audio/mpeg" length="4180896"/>
     </item>
   </channel>
 </rss>
