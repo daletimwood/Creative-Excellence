@@ -11,6 +11,13 @@
     <itunes:category text="Arts"/>
     <itunes:category text="Personal Journals"/>
     <item>
+      <title>Creative Excellence — Wednesday, August 26, 2026</title>
+      <description>Covering: Forbes Vetted &lt;shopping@email.forbes.com&gt;, Joseph Di Prisco &lt;jdp@newliteraryproject.org&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, The Free Press &lt;bariweiss+free-press-events@substack.com&gt;</description>
+      <pubDate>Wed, 26 Aug 2026 06:50:21 +0100</pubDate>
+      <guid isPermaLink="false">creative-excellence-2026-08-26</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-08-26.m4a" type="audio/mp4" length="1407905"/>
+    </item>
+    <item>
       <title>Creative Excellence — Tuesday, August 25, 2026</title>
       <description>Covering: Poetry Daily &lt;poetrydaily@poems.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, "Forbes Vetted | The Find" &lt;shopping@email.forbes.com&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, Bridget Chapman at Forbes Vetted &lt;shopping@email.forbes.com&gt;</description>
       <pubDate>Tue, 25 Aug 2026 06:51:28 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Thu, 25 Jun 2026 07:56:43 +0100</pubDate>
       <guid isPermaLink="false">creative-excellence-2026-06-25</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-06-25.mp3" type="audio/mpeg" length="4373280"/>
-    </item>
-    <item>
-      <title>Creative Excellence — June 24, 2026</title>
-      <description>Daily creative digest</description>
-      <pubDate>Wed, 24 Jun 2026 07:56:50 +0100</pubDate>
-      <guid isPermaLink="false">creative-excellence-2026-06-24</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-06-24.mp3" type="audio/mpeg" length="4275504"/>
     </item>
   </channel>
 </rss>
