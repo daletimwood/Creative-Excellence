@@ -11,6 +11,13 @@
     <itunes:category text="Arts"/>
     <itunes:category text="Personal Journals"/>
     <item>
+      <title>Creative Excellence — Thursday, August 27, 2026</title>
+      <description>Covering: Poetry Daily &lt;poetrydaily@poems.com&gt;, "The Marginalian by Maria Popova (Midweek Edition)" &lt;newsletter@themarginalian.org&gt;, "Forbes Vetted | Deals" &lt;shopping@email.forbes.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, "Forbes Vetted | Known Traveler" &lt;shopping@email.forbes.com&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;</description>
+      <pubDate>Thu, 27 Aug 2026 07:28:16 +0100</pubDate>
+      <guid isPermaLink="false">creative-excellence-2026-08-27</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-08-27.m4a" type="audio/mp4" length="2574855"/>
+    </item>
+    <item>
       <title>Creative Excellence — Wednesday, August 26, 2026</title>
       <description>Covering: Forbes Vetted &lt;shopping@email.forbes.com&gt;, Joseph Di Prisco &lt;jdp@newliteraryproject.org&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, The Free Press &lt;bariweiss+free-press-events@substack.com&gt;</description>
       <pubDate>Wed, 26 Aug 2026 06:50:21 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Fri, 26 Jun 2026 22:40:36 +0100</pubDate>
       <guid isPermaLink="false">creative-excellence-2026-06-26</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-06-26.mp3" type="audio/mpeg" length="2421648"/>
-    </item>
-    <item>
-      <title>Creative Excellence — June 25, 2026</title>
-      <description>Daily creative digest</description>
-      <pubDate>Thu, 25 Jun 2026 07:56:43 +0100</pubDate>
-      <guid isPermaLink="false">creative-excellence-2026-06-25</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-06-25.mp3" type="audio/mpeg" length="4373280"/>
     </item>
   </channel>
 </rss>
