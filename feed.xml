@@ -11,6 +11,13 @@
     <itunes:category text="Arts"/>
     <itunes:category text="Personal Journals"/>
     <item>
+      <title>Creative Excellence — Saturday, September 5, 2026</title>
+      <description>Covering: Peter Smith Rewilding &lt;peeta462032@substack.com&gt;, "Forbes | Passport" &lt;forbeslife@email.forbes.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, The Poetry Society &lt;marketing@poetrysociety.org.uk&gt;, Nadia Bolz-Weber from The Corners  &lt;thecorners@substack.com&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, "Forbes Vetted | Deals" &lt;shopping@email.forbes.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;</description>
+      <pubDate>Sat, 05 Sep 2026 11:50:00 +0100</pubDate>
+      <guid isPermaLink="false">creative-excellence-2026-09-05</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-09-05.m4a" type="audio/mp4" length="2484827"/>
+    </item>
+    <item>
       <title>Creative Excellence — Friday, September 4, 2026</title>
       <description>Covering: Asymptote Journal &lt;mailer@asymptotejournal.com&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, Forbes Vetted &lt;shopping@email.forbes.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, "Aarron &amp; Eli from Design Better" &lt;thecuriositydepartment+events@substack.com&gt;, Little Toller Books &lt;books@littletoller.co.uk&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;</description>
       <pubDate>Fri, 04 Sep 2026 06:48:55 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Mon, 06 Jul 2026 09:57:45 +0100</pubDate>
       <guid isPermaLink="false">creative-excellence-2026-07-06</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-07-06.m4a" type="audio/mp4" length="2910273"/>
-    </item>
-    <item>
-      <title>Creative Excellence — Sunday, July 5, 2026</title>
-      <description>Covering: Little Toller Books &lt;books@littletoller.co.uk&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;</description>
-      <pubDate>Sun, 05 Jul 2026 07:40:14 +0100</pubDate>
-      <guid isPermaLink="false">creative-excellence-2026-07-05</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-07-05.m4a" type="audio/mp4" length="2617088"/>
     </item>
   </channel>
 </rss>
