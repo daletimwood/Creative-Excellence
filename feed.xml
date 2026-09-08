@@ -11,6 +11,13 @@
     <itunes:category text="Arts"/>
     <itunes:category text="Personal Journals"/>
     <item>
+      <title>Creative Excellence — Tuesday, September 8, 2026</title>
+      <description>Covering: "Forbes Vetted | The Find" &lt;shopping@email.forbes.com&gt;, Nadia Bolz-Weber from The Corners  &lt;thecorners@substack.com&gt;, Bridget Chapman at Forbes Vetted &lt;shopping@email.forbes.com&gt;, "Forbes Vetted | Deals" &lt;shopping@email.forbes.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 06:47:09 +0100</pubDate>
+      <guid isPermaLink="false">creative-excellence-2026-09-08</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-09-08.m4a" type="audio/mp4" length="1761934"/>
+    </item>
+    <item>
       <title>Creative Excellence — Monday, September 7, 2026</title>
       <description>Covering: The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, "The Marginalian by Maria Popova (Sunday Edition)" &lt;newsletter@themarginalian.org&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;, The Free Press &lt;bariweiss@substack.com&gt;, Peter Smith Rewilding &lt;peeta462032@substack.com&gt;</description>
       <pubDate>Mon, 07 Sep 2026 06:49:01 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Thu, 09 Jul 2026 04:53:42 +0100</pubDate>
       <guid isPermaLink="false">creative-excellence-2026-07-09</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-07-09.m4a" type="audio/mp4" length="3168252"/>
-    </item>
-    <item>
-      <title>Creative Excellence — Wednesday, July 8, 2026</title>
-      <description>Covering: The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 11:08:47 +0100</pubDate>
-      <guid isPermaLink="false">creative-excellence-2026-07-08</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-07-08.m4a" type="audio/mp4" length="2268762"/>
     </item>
   </channel>
 </rss>
