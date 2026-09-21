@@ -11,6 +11,13 @@
     <itunes:category text="Arts"/>
     <itunes:category text="Personal Journals"/>
     <item>
+      <title>Creative Excellence — Monday, September 21, 2026</title>
+      <description>Covering: Poetry Daily &lt;poetrydaily@poems.com&gt;, Little Toller Books &lt;books@littletoller.co.uk&gt;, The Poetry Society &lt;marketing@poetrysociety.org.uk&gt;, Rick Rubin &lt;rickrubin@substack.com&gt;, The Free Press &lt;bariweiss@substack.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, "The Marginalian by Maria Popova (Sunday Edition)" &lt;newsletter@themarginalian.org&gt;</description>
+      <pubDate>Mon, 21 Sep 2026 06:34:45 +0100</pubDate>
+      <guid isPermaLink="false">creative-excellence-2026-09-21</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-09-21.m4a" type="audio/mp4" length="1625272"/>
+    </item>
+    <item>
       <title>Creative Excellence — Sunday, September 20, 2026</title>
       <description>Covering: Poetry Daily &lt;poetrydaily@poems.com&gt;, The Free Press &lt;bariweiss+the-weekend-press@substack.com&gt;</description>
       <pubDate>Sun, 20 Sep 2026 06:30:57 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Wed, 22 Jul 2026 07:23:40 +0100</pubDate>
       <guid isPermaLink="false">creative-excellence-2026-07-22</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-07-22.m4a" type="audio/mp4" length="2711345"/>
-    </item>
-    <item>
-      <title>Creative Excellence — Tuesday, July 21, 2026</title>
-      <description>Covering: The Poetry Society &lt;marketing@poetrysociety.org.uk&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, Waterstones &lt;team@email1.waterstones.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;</description>
-      <pubDate>Tue, 21 Jul 2026 07:21:46 +0100</pubDate>
-      <guid isPermaLink="false">creative-excellence-2026-07-21</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-07-21.m4a" type="audio/mp4" length="2484934"/>
     </item>
   </channel>
 </rss>
