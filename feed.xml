@@ -11,6 +11,13 @@
     <itunes:category text="Arts"/>
     <itunes:category text="Personal Journals"/>
     <item>
+      <title>Creative Excellence — Tuesday, September 29, 2026</title>
+      <description>Covering: "Forbes Vetted | The Find" &lt;shopping@email.forbes.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, Bridget Chapman at Forbes Vetted &lt;shopping@email.forbes.com&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;</description>
+      <pubDate>Tue, 29 Sep 2026 06:54:30 +0100</pubDate>
+      <guid isPermaLink="false">creative-excellence-2026-09-29</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-09-29.m4a" type="audio/mp4" length="2337408"/>
+    </item>
+    <item>
       <title>Creative Excellence — Monday, September 28, 2026</title>
       <description>Covering: The Free Press &lt;bariweiss@substack.com&gt;, Rick Rubin &lt;rickrubin@substack.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;, Peter Smith Rewilding &lt;peeta462032@substack.com&gt;, "The Marginalian by Maria Popova (Sunday Edition)" &lt;newsletter@themarginalian.org&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;</description>
       <pubDate>Mon, 28 Sep 2026 06:46:37 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Thu, 30 Jul 2026 07:23:23 +0100</pubDate>
       <guid isPermaLink="false">creative-excellence-2026-07-30</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-07-30.m4a" type="audio/mp4" length="2985288"/>
-    </item>
-    <item>
-      <title>Creative Excellence — Wednesday, July 29, 2026</title>
-      <description>Covering: Poetry Daily &lt;poetrydaily@poems.com&gt;, Waterstones &lt;team@email1.waterstones.com&gt;, "Aarron &amp; Eli from Design Better" &lt;thecuriositydepartment@substack.com&gt;, Nadia Bolz-Weber from The Corners  &lt;thecorners@substack.com&gt;, The Free Press &lt;bariweiss+free-press-events@substack.com&gt;</description>
-      <pubDate>Wed, 29 Jul 2026 07:13:44 +0100</pubDate>
-      <guid isPermaLink="false">creative-excellence-2026-07-29</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-07-29.m4a" type="audio/mp4" length="2615599"/>
     </item>
   </channel>
 </rss>
