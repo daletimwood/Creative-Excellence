@@ -11,6 +11,13 @@
     <itunes:category text="Arts"/>
     <itunes:category text="Personal Journals"/>
     <item>
+      <title>Creative Excellence — Monday, October 5, 2026</title>
+      <description>Covering: Rick Rubin &lt;rickrubin@substack.com&gt;, The Free Press &lt;bariweiss@substack.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;, The Poetry Society &lt;marketing@poetrysociety.org.uk&gt;, "The Marginalian by Maria Popova (Sunday Edition)" &lt;newsletter@themarginalian.org&gt;</description>
+      <pubDate>Mon, 05 Oct 2026 06:43:34 +0100</pubDate>
+      <guid isPermaLink="false">creative-excellence-2026-10-05</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-10-05.m4a" type="audio/mp4" length="2402288"/>
+    </item>
+    <item>
       <title>Creative Excellence — Sunday, October 4, 2026</title>
       <description>Covering: The Free Press &lt;bariweiss+the-weekend-press@substack.com&gt;, Peter Smith Rewilding &lt;peeta462032@substack.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;</description>
       <pubDate>Sun, 04 Oct 2026 06:34:48 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Fri, 07 Aug 2026 07:26:59 +0100</pubDate>
       <guid isPermaLink="false">creative-excellence-2026-08-07</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-08-07.m4a" type="audio/mp4" length="2709956"/>
-    </item>
-    <item>
-      <title>Creative Excellence — Thursday, August 6, 2026</title>
-      <description>Covering: "The Marginalian by Maria Popova (Midweek Edition)" &lt;newsletter@themarginalian.org&gt;, "Aarron &amp; Eli from Design Better" &lt;thecuriositydepartment@substack.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, "Forbes Vetted | Deals" &lt;shopping@email.forbes.com&gt;, "Forbes Vetted | Known Traveler" &lt;shopping@email.forbes.com&gt;, The Poetry Society &lt;marketing@poetrysociety.org.uk&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;</description>
-      <pubDate>Thu, 06 Aug 2026 09:33:03 +0100</pubDate>
-      <guid isPermaLink="false">creative-excellence-2026-08-06</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-08-06.m4a" type="audio/mp4" length="3079461"/>
     </item>
   </channel>
 </rss>
