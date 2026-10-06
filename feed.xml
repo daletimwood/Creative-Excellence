@@ -11,6 +11,13 @@
     <itunes:category text="Arts"/>
     <itunes:category text="Personal Journals"/>
     <item>
+      <title>Creative Excellence — Tuesday, October 6, 2026</title>
+      <description>Covering: Bridget Chapman at Forbes Vetted &lt;shopping@email.forbes.com&gt;, "Forbes Vetted | The Find" &lt;shopping@email.forbes.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;</description>
+      <pubDate>Tue, 06 Oct 2026 06:41:26 +0100</pubDate>
+      <guid isPermaLink="false">creative-excellence-2026-10-06</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-10-06.m4a" type="audio/mp4" length="1276059"/>
+    </item>
+    <item>
       <title>Creative Excellence — Monday, October 5, 2026</title>
       <description>Covering: Rick Rubin &lt;rickrubin@substack.com&gt;, The Free Press &lt;bariweiss@substack.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;, The Poetry Society &lt;marketing@poetrysociety.org.uk&gt;, "The Marginalian by Maria Popova (Sunday Edition)" &lt;newsletter@themarginalian.org&gt;</description>
       <pubDate>Mon, 05 Oct 2026 06:43:34 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Sat, 08 Aug 2026 07:17:33 +0100</pubDate>
       <guid isPermaLink="false">creative-excellence-2026-08-08</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-08-08.m4a" type="audio/mp4" length="2638960"/>
-    </item>
-    <item>
-      <title>Creative Excellence — Friday, August 7, 2026</title>
-      <description>Covering: Nadia Bolz-Weber from The Corners  &lt;thecorners@substack.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;, Asymptote Journal &lt;mailer@asymptotejournal.com&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, Forbes Vetted &lt;shopping@email.forbes.com&gt;, Joseph Di Prisco &lt;jdp@newliteraryproject.org&gt;</description>
-      <pubDate>Fri, 07 Aug 2026 07:26:59 +0100</pubDate>
-      <guid isPermaLink="false">creative-excellence-2026-08-07</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-08-07.m4a" type="audio/mp4" length="2709956"/>
     </item>
   </channel>
 </rss>
