@@ -11,6 +11,13 @@
     <itunes:category text="Arts"/>
     <itunes:category text="Personal Journals"/>
     <item>
+      <title>Creative Excellence — Saturday, October 10, 2026</title>
+      <description>Covering: Granta Magazine &lt;newsletters@granta.com&gt;, "Aarron &amp; Eli from Design Better" &lt;thecuriositydepartment@substack.com&gt;, Humanistic Systems &lt;donotreply@wordpress.com&gt;, Magma Poetry &lt;info@magmapoetry.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;, The Free Press &lt;bariweiss+tgif@substack.com&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;</description>
+      <pubDate>Sat, 10 Oct 2026 06:50:58 +0100</pubDate>
+      <guid isPermaLink="false">creative-excellence-2026-10-10</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-10-10.m4a" type="audio/mp4" length="1580720"/>
+    </item>
+    <item>
       <title>Creative Excellence — Friday, October 9, 2026</title>
       <description>Covering: Poetry Daily &lt;poetrydaily@poems.com&gt;, Asymptote Journal &lt;mailer@asymptotejournal.com&gt;, Craftivist Collective &lt;sarah@craftivist-collective.com&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, Granta Magazine &lt;newsletters@granta.com&gt;, Forbes Vetted &lt;shopping@email.forbes.com&gt;</description>
       <pubDate>Fri, 09 Oct 2026 06:48:21 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Wed, 12 Aug 2026 09:19:04 +0100</pubDate>
       <guid isPermaLink="false">creative-excellence-2026-08-12</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-08-12.m4a" type="audio/mp4" length="2629314"/>
-    </item>
-    <item>
-      <title>Creative Excellence — Tuesday, August 11, 2026</title>
-      <description>Covering: The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, Bridget Chapman at Forbes Vetted &lt;shopping@email.forbes.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, Waterstones &lt;team@email1.waterstones.com&gt;, "Forbes Vetted | The Find" &lt;shopping@email.forbes.com&gt;</description>
-      <pubDate>Tue, 11 Aug 2026 07:26:52 +0100</pubDate>
-      <guid isPermaLink="false">creative-excellence-2026-08-11</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-08-11.m4a" type="audio/mp4" length="2232766"/>
     </item>
   </channel>
 </rss>
