@@ -11,6 +11,13 @@
     <itunes:category text="Arts"/>
     <itunes:category text="Personal Journals"/>
     <item>
+      <title>Creative Excellence — Sunday, October 11, 2026</title>
+      <description>Covering: The Free Press &lt;bariweiss+the-weekend-press@substack.com&gt;, Hayley from VERVE Poetry Festival &lt;vervepoetry@substack.com&gt;, Tetragrammaton Editorial &lt;rickrubin+tetra@substack.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 06:40:43 +0100</pubDate>
+      <guid isPermaLink="false">creative-excellence-2026-10-11</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-10-11.m4a" type="audio/mp4" length="1486552"/>
+    </item>
+    <item>
       <title>Creative Excellence — Saturday, October 10, 2026</title>
       <description>Covering: Granta Magazine &lt;newsletters@granta.com&gt;, "Aarron &amp; Eli from Design Better" &lt;thecuriositydepartment@substack.com&gt;, Humanistic Systems &lt;donotreply@wordpress.com&gt;, Magma Poetry &lt;info@magmapoetry.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;, The Free Press &lt;bariweiss+tgif@substack.com&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;</description>
       <pubDate>Sat, 10 Oct 2026 06:50:58 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Thu, 13 Aug 2026 07:20:12 +0100</pubDate>
       <guid isPermaLink="false">creative-excellence-2026-08-13</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-08-13.m4a" type="audio/mp4" length="2996061"/>
-    </item>
-    <item>
-      <title>Creative Excellence — Wednesday, August 12, 2026</title>
-      <description>Covering: Hayley from VERVE Poetry Festival &lt;vervepoetry@substack.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;, Forbes Vetted &lt;shopping@email.forbes.com&gt;</description>
-      <pubDate>Wed, 12 Aug 2026 09:19:04 +0100</pubDate>
-      <guid isPermaLink="false">creative-excellence-2026-08-12</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-08-12.m4a" type="audio/mp4" length="2629314"/>
     </item>
   </channel>
 </rss>
