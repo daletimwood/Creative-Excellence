@@ -11,6 +11,13 @@
     <itunes:category text="Arts"/>
     <itunes:category text="Personal Journals"/>
     <item>
+      <title>Creative Excellence — Saturday, October 17, 2026</title>
+      <description>Covering: The Free Press &lt;bariweiss+tgif@substack.com&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, Peter Smith Rewilding &lt;peeta462032@substack.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;, Seren Books &lt;seren@serenbooks.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, "Forbes Vetted | Deals" &lt;shopping@email.forbes.com&gt;</description>
+      <pubDate>Sat, 17 Oct 2026 06:45:44 +0100</pubDate>
+      <guid isPermaLink="false">creative-excellence-2026-10-17</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-10-17.m4a" type="audio/mp4" length="1893769"/>
+    </item>
+    <item>
       <title>Creative Excellence — Friday, October 16, 2026</title>
       <description>Covering: Forbes Vetted &lt;shopping@email.forbes.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;</description>
       <pubDate>Fri, 16 Oct 2026 06:43:17 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Wed, 19 Aug 2026 06:38:40 +0100</pubDate>
       <guid isPermaLink="false">creative-excellence-2026-08-19</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-08-19.m4a" type="audio/mp4" length="2101728"/>
-    </item>
-    <item>
-      <title>Creative Excellence — Tuesday, August 18, 2026</title>
-      <description>Covering: "Forbes Vetted | The Find" &lt;shopping@email.forbes.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, Waterstones &lt;team@email1.waterstones.com&gt;</description>
-      <pubDate>Tue, 18 Aug 2026 09:44:23 +0100</pubDate>
-      <guid isPermaLink="false">creative-excellence-2026-08-18</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-08-18.m4a" type="audio/mp4" length="2559577"/>
     </item>
   </channel>
 </rss>
