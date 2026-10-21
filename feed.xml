@@ -11,6 +11,13 @@
     <itunes:category text="Arts"/>
     <itunes:category text="Personal Journals"/>
     <item>
+      <title>Creative Excellence — Wednesday, October 21, 2026</title>
+      <description>Covering: Joseph Di Prisco &lt;jdp@newliteraryproject.org&gt;, Hayley from VERVE Poetry Festival &lt;vervepoetry@substack.com&gt;, Peter Smith Rewilding &lt;peeta462032@substack.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, The Free Press &lt;bariweiss+free-press-events@substack.com&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;</description>
+      <pubDate>Wed, 21 Oct 2026 06:43:55 +0100</pubDate>
+      <guid isPermaLink="false">creative-excellence-2026-10-21</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-10-21.m4a" type="audio/mp4" length="2805943"/>
+    </item>
+    <item>
       <title>Creative Excellence — Tuesday, October 20, 2026</title>
       <description>Covering: The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, "Forbes Vetted | The Find" &lt;shopping@email.forbes.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;, The Poetry Society &lt;marketing@poetrysociety.org.uk&gt;</description>
       <pubDate>Tue, 20 Oct 2026 06:41:04 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Sun, 23 Aug 2026 06:43:37 +0100</pubDate>
       <guid isPermaLink="false">creative-excellence-2026-08-23</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-08-23.m4a" type="audio/mp4" length="2664993"/>
-    </item>
-    <item>
-      <title>Creative Excellence — Saturday, August 22, 2026</title>
-      <description>Covering: The Free Press &lt;bariweiss+tgif@substack.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, Peter Smith Rewilding &lt;peeta462032@substack.com&gt;</description>
-      <pubDate>Sat, 22 Aug 2026 06:52:33 +0100</pubDate>
-      <guid isPermaLink="false">creative-excellence-2026-08-22</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-08-22.m4a" type="audio/mp4" length="3590600"/>
     </item>
   </channel>
 </rss>
