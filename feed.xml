@@ -11,6 +11,13 @@
     <itunes:category text="Arts"/>
     <itunes:category text="Personal Journals"/>
     <item>
+      <title>Creative Excellence — Tuesday, October 27, 2026</title>
+      <description>Covering: "Forbes Vetted | The Find" &lt;shopping@email.forbes.com&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, Humanistic Systems &lt;donotreply@wordpress.com&gt;, Tetragrammaton Editorial &lt;rickrubin+tetra@substack.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 06:41:47 +0000</pubDate>
+      <guid isPermaLink="false">creative-excellence-2026-10-27</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-10-27.m4a" type="audio/mp4" length="1426224"/>
+    </item>
+    <item>
       <title>Creative Excellence — Monday, October 26, 2026</title>
       <description>Covering: Poetry Daily &lt;poetrydaily@poems.com&gt;, "The Marginalian by Maria Popova (Sunday Edition)" &lt;newsletter@themarginalian.org&gt;, Rick Rubin &lt;rickrubin@substack.com&gt;, The Free Press &lt;bariweiss@substack.com&gt;, Hayley from VERVE Poetry Festival &lt;vervepoetry@substack.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;</description>
       <pubDate>Mon, 26 Oct 2026 06:35:47 +0000</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Sat, 29 Aug 2026 07:57:16 +0100</pubDate>
       <guid isPermaLink="false">creative-excellence-2026-08-29</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-08-29.m4a" type="audio/mp4" length="2560218"/>
-    </item>
-    <item>
-      <title>Creative Excellence — Friday, August 28, 2026</title>
-      <description>Covering: The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;, Forbes Vetted &lt;shopping@email.forbes.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;</description>
-      <pubDate>Fri, 28 Aug 2026 07:39:48 +0100</pubDate>
-      <guid isPermaLink="false">creative-excellence-2026-08-28</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-08-28.m4a" type="audio/mp4" length="1478986"/>
     </item>
   </channel>
 </rss>
