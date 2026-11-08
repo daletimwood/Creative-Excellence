@@ -11,6 +11,13 @@
     <itunes:category text="Arts"/>
     <itunes:category text="Personal Journals"/>
     <item>
+      <title>Creative Excellence — Sunday, November 8, 2026</title>
+      <description>Covering: The Free Press &lt;bariweiss+the-weekend-press@substack.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 06:32:08 +0000</pubDate>
+      <guid isPermaLink="false">creative-excellence-2026-11-08</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-11-08.m4a" type="audio/mp4" length="1624179"/>
+    </item>
+    <item>
       <title>Creative Excellence — Saturday, November 7, 2026</title>
       <description>Covering: "Forbes Vetted | Deals" &lt;shopping@email.forbes.com&gt;, Magma Poetry &lt;info@magmapoetry.com&gt;, The Free Press &lt;bariweiss+tgif@substack.com&gt;, Waterstones &lt;team@email1.waterstones.com&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;, Humanistic Systems &lt;donotreply@wordpress.com&gt;</description>
       <pubDate>Sat, 07 Nov 2026 06:40:52 +0000</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Thu, 10 Sep 2026 06:55:45 +0100</pubDate>
       <guid isPermaLink="false">creative-excellence-2026-09-10</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-09-10.m4a" type="audio/mp4" length="2068732"/>
-    </item>
-    <item>
-      <title>Creative Excellence — Wednesday, September 9, 2026</title>
-      <description>Covering: Poetry Daily &lt;poetrydaily@poems.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, The Poetry Society &lt;marketing@poetrysociety.org.uk&gt;, Hayley from VERVE Poetry Festival &lt;vervepoetry@substack.com&gt;, Forbes Vetted &lt;shopping@email.forbes.com&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;</description>
-      <pubDate>Wed, 09 Sep 2026 06:33:54 +0100</pubDate>
-      <guid isPermaLink="false">creative-excellence-2026-09-09</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-09-09.m4a" type="audio/mp4" length="2117057"/>
     </item>
   </channel>
 </rss>
