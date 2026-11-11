@@ -11,6 +11,13 @@
     <itunes:category text="Arts"/>
     <itunes:category text="Personal Journals"/>
     <item>
+      <title>Creative Excellence — Wednesday, November 11, 2026</title>
+      <description>Covering: Poetry Daily &lt;poetrydaily@poems.com&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, Hayley from VERVE Poetry Festival &lt;vervepoetry@substack.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;</description>
+      <pubDate>Wed, 11 Nov 2026 06:39:37 +0000</pubDate>
+      <guid isPermaLink="false">creative-excellence-2026-11-11</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-11-11.m4a" type="audio/mp4" length="2346728"/>
+    </item>
+    <item>
       <title>Creative Excellence — Tuesday, November 10, 2026</title>
       <description>Covering: "Forbes Vetted | The Find" &lt;shopping@email.forbes.com&gt;, Waterstones &lt;team@email1.waterstones.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, Tetragrammaton Editorial &lt;rickrubin+tetra@substack.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, The Poetry Society &lt;marketing@poetrysociety.org.uk&gt;</description>
       <pubDate>Tue, 10 Nov 2026 06:39:15 +0000</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Sun, 13 Sep 2026 06:38:40 +0100</pubDate>
       <guid isPermaLink="false">creative-excellence-2026-09-13</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-09-13.m4a" type="audio/mp4" length="2138409"/>
-    </item>
-    <item>
-      <title>Creative Excellence — Saturday, September 12, 2026</title>
-      <description>Covering: Poetry Daily &lt;poetrydaily@poems.com&gt;, "Forbes Vetted | Deals" &lt;shopping@email.forbes.com&gt;, "Forbes | Passport" &lt;forbeslife@email.forbes.com&gt;</description>
-      <pubDate>Sat, 12 Sep 2026 08:12:45 +0100</pubDate>
-      <guid isPermaLink="false">creative-excellence-2026-09-12</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-09-12.m4a" type="audio/mp4" length="1903423"/>
     </item>
   </channel>
 </rss>
