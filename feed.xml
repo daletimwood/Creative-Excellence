@@ -11,6 +11,13 @@
     <itunes:category text="Arts"/>
     <itunes:category text="Personal Journals"/>
     <item>
+      <title>Creative Excellence — Saturday, November 14, 2026</title>
+      <description>Covering: Humanistic Systems &lt;donotreply@wordpress.com&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;, Waterstones &lt;team@email1.waterstones.com&gt;, "Forbes Vetted | Deals" &lt;shopping@email.forbes.com&gt;, The Free Press &lt;bariweiss+tgif@substack.com&gt;</description>
+      <pubDate>Sat, 14 Nov 2026 06:40:01 +0000</pubDate>
+      <guid isPermaLink="false">creative-excellence-2026-11-14</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-11-14.m4a" type="audio/mp4" length="1125017"/>
+    </item>
+    <item>
       <title>Creative Excellence — Friday, November 13, 2026</title>
       <description>Covering: The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, Asymptote Journal &lt;mailer@asymptotejournal.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, Waterstones &lt;team@email1.waterstones.com&gt;</description>
       <pubDate>Fri, 13 Nov 2026 06:37:57 +0000</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Wed, 16 Sep 2026 14:09:26 +0100</pubDate>
       <guid isPermaLink="false">creative-excellence-2026-09-16</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-09-16.m4a" type="audio/mp4" length="1756319"/>
-    </item>
-    <item>
-      <title>Creative Excellence — Tuesday, September 15, 2026</title>
-      <description>Covering: Bridget Chapman at Forbes Vetted &lt;shopping@email.forbes.com&gt;, "Forbes Vetted | The Find" &lt;shopping@email.forbes.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;, Nadia Bolz-Weber from The Corners  &lt;thecorners@substack.com&gt;</description>
-      <pubDate>Tue, 15 Sep 2026 06:44:35 +0100</pubDate>
-      <guid isPermaLink="false">creative-excellence-2026-09-15</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-09-15.m4a" type="audio/mp4" length="2072860"/>
     </item>
   </channel>
 </rss>
