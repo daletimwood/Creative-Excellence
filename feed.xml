@@ -11,6 +11,13 @@
     <itunes:category text="Arts"/>
     <itunes:category text="Personal Journals"/>
     <item>
+      <title>Creative Excellence — Tuesday, November 24, 2026</title>
+      <description>Covering: Poetry Daily &lt;poetrydaily@poems.com&gt;, "Forbes Vetted | The Find" &lt;shopping@email.forbes.com&gt;, Waterstones &lt;team@email1.waterstones.com&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, The Poetry Society &lt;marketing@poetrysociety.org.uk&gt;, Humanistic Systems &lt;donotreply@wordpress.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;</description>
+      <pubDate>Tue, 24 Nov 2026 06:44:21 +0000</pubDate>
+      <guid isPermaLink="false">creative-excellence-2026-11-24</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-11-24.m4a" type="audio/mp4" length="1307240"/>
+    </item>
+    <item>
       <title>Creative Excellence — Monday, November 23, 2026</title>
       <description>Covering: Peter Smith Rewilding &lt;peeta462032@substack.com&gt;, "The Marginalian by Maria Popova (Sunday Edition)" &lt;newsletter@themarginalian.org&gt;, Rick Rubin &lt;rickrubin@substack.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, Waterstones &lt;team@email1.waterstones.com&gt;, Granta Magazine &lt;newsletters@granta.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;</description>
       <pubDate>Mon, 23 Nov 2026 06:43:12 +0000</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Sat, 26 Sep 2026 06:49:27 +0100</pubDate>
       <guid isPermaLink="false">creative-excellence-2026-09-26</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-09-26.m4a" type="audio/mp4" length="1696000"/>
-    </item>
-    <item>
-      <title>Creative Excellence — Friday, September 25, 2026</title>
-      <description>Covering: The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, "Forbes | Vetted" &lt;shopping@email.forbes.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, Poetry Daily &lt;poetrydaily@poems.com&gt;</description>
-      <pubDate>Fri, 25 Sep 2026 06:44:17 +0100</pubDate>
-      <guid isPermaLink="false">creative-excellence-2026-09-25</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/creative/episodes/creative-2026-09-25.m4a" type="audio/mp4" length="1421200"/>
     </item>
   </channel>
 </rss>
